@@ -16,9 +16,14 @@
 * вежбе II (Н. Радовановић): четвртком од 9:15 до 11:00 у сали 216
 * вежбе III (Љ. Матић): четвртком од 17:15 до 19:00 у сали 216
 
-## Moodle приступ
+## Литература
 
-Уписни код за приступ [Moodle](http://moodle.fink.rs) порталу је: `eq52q5`.
+Основни уџбеник:
+* Anant Agarwal, Jeffrey Lang, [Foundations of Analog and Digital Electronic Circuits](https://neurophysics.ucsd.edu/courses/physics_120/Agarwal%20and%20Lang%20(2005)%20Foundations%20of%20Analog%20and%20Digital.pdf), Elsevier, 2005.
+
+<!--## Moodle приступ-->
+
+<!--Уписни код за приступ [Moodle](http://moodle.fink.rs) порталу је: `eq52q5`.-->
 
 ## Предиспитне обавезе
 

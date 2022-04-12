@@ -19,7 +19,7 @@
 ## Литература
 
 Основни уџбеник:
-* Anant Agarwal, Jeffrey Lang, [Foundations of Analog and Digital Electronic Circuits](https://neurophysics.ucsd.edu/courses/physics_120/Agarwal%20and%20Lang%20(2005)%20Foundations%20of%20Analog%20and%20Digital.pdf), Elsevier, 2005.
+* [Anant Agarwal](https://en.wikipedia.org/wiki/Anant_Agarwal), Jeffrey Lang, [Foundations of Analog and Digital Electronic Circuits](https://neurophysics.ucsd.edu/courses/physics_120/Agarwal%20and%20Lang%20(2005)%20Foundations%20of%20Analog%20and%20Digital.pdf), [Elsevier](https://booksite.elsevier.com/9781558607354), 2005. и [решења задатака](https://textbooks.elsevier.com/manualsprotectedtextbooks/9781558607354/manual/agarwal_and_lang-solutions.pdf)
 
 <!--## Moodle приступ-->
 
@@ -41,13 +41,13 @@
 
 На колоквијумима је обавезно понети индекс, као и личну карту или пасош и поштовати [распореда седења](https://docs.google.com/spreadsheets/d/1YiwvOKl5veB1vB-BqonFbdLb-W3FZKTevtwLkY_8VeM). Да би положио колоквијум студент мора остварити најмање 50% поена, односно 15 поена на сваком. По један колоквијум је могуће надокнадити у сваком од испитних рокова уместо завршног испита.
 
-### Испит
+## Испит
 
 Испит се одржава у сваком испитном року, носи тридесет бодова и да би се положио неопходно је освојити најмање 50% бодова, односно 15 поена, и као такав практично представља неку врсту незваничног III колоквијума. Уместо самог испита, студент може изабрати да поправи један од прва два колоквијума.
 
 На колоквијумима и испитима по 20 поена носе задаци са вежби, а по 10 поена задаци/питалице са предавања.
 
-### Оцењивање
+## Оцењивање
 
 Оцена (100 поена): испит (30 поена) + ПИО (70 поена)
 * **5**: од 0 до 50 поена

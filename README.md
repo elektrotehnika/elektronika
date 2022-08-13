@@ -55,7 +55,7 @@
 
 Пријава испита у школској 2021./2022. години:
 * [јулски](https://docs.google.com/forms/d/e/1FAIpQLSflYmUx4hVVNw2FPgNn6X_RxmoETNnrD53yC49FxeoIvtxT0A/viewform?usp=sf_link) испитни рок
-* августовски испитни рок
+* [августовски](https://docs.google.com/forms/d/e/1FAIpQLSd0Z-HKWTeYkqgVMa3gPQsETrPGUabhQgAl9DXJVPL_VDQxKA/viewform?usp=sf_link) испитни рок
 * септембарски испитни рок
 * јануарски испитни рок
 * фебруарски испитни рок

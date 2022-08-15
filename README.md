@@ -27,6 +27,14 @@
 
 <!--Уписни код за приступ [Moodle](http://moodle.fink.rs) порталу је: `eq52q5`.-->
 
+## Симулатори електронских кола
+
+* [CircuitLab][CircuitLab]
+* [Circuit Sandbox][Circuit-Sandbox]
+
+[CircuitLab][https://www.circuitlab.com]
+[Circuit-Sandbox][https://spinningnumbers.org/circuit-sandbox]
+
 ## Предиспитне обавезе
 
 Предиспитне обавезе се састоје из пет лабораторијских вежби од којих свака носи по два бода и два колоквијума од којих сваки носи по тридесет бодова.

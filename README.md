@@ -32,8 +32,8 @@
 * [CircuitLab][CircuitLab]
 * [Circuit Sandbox][Circuit-Sandbox]
 
-[CircuitLab][https://www.circuitlab.com]
-[Circuit-Sandbox][https://spinningnumbers.org/circuit-sandbox]
+[CircuitLab]: https://www.circuitlab.com
+[Circuit-Sandbox]: https://spinningnumbers.org/circuit-sandbox
 
 ## Предиспитне обавезе
 

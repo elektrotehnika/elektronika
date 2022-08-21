@@ -7,7 +7,7 @@
 
 ## Обавештења
 
-Увид у радове, упис оцена, као и жалбе на [резултате](https://docs.google.com/spreadsheets/d/1itNwLimSaMbI14gUMRV4P__rLVkMIvSJ-oJ9mmq7PbM) јулског испитног рока биће одржане у четвртак 7. јула 2022. године у 9:30 у лабораторији Д-62.
+Увид у радове, упис оцена, као и жалбе на [резултате](https://docs.google.com/spreadsheets/d/1itNwLimSaMbI14gUMRV4P__rLVkMIvSJ-oJ9mmq7PbM) августовског испитног рока биће одржане у уторак 23. августа 2022. године у 10:30 у лабораторији Д-62.
 
 Трочас предавања одржан је у суботу 26. марта 2022. године од 8:15 до 11:00, уместо у суботу 4. јуна 2022. године као што је предвиђено [распоредом](http://www.fink.rs/images/Studenti/2021/08/Raspored_nastavnih_aktivnosti_2021-2022.pdf) наставних активности.
 
@@ -29,11 +29,19 @@
 
 ## Симулатори електронских кола
 
+Интернет симулатори електронских кола
 * [CircuitLab][CircuitLab]
 * [Circuit Sandbox][Circuit-Sandbox]
 
+Слободни симулатори електронских кола
+* [SPICE][SPICE]
+* [ngspice][ngspice]
+
 [CircuitLab]: https://www.circuitlab.com
 [Circuit-Sandbox]: https://spinningnumbers.org/circuit-sandbox
+
+[SPICE]: http://bwrcs.eecs.berkeley.edu/Classes/IcBook/SPICE
+[ngspice]: https://ngspice.sourceforge.io
 
 ## Предиспитне обавезе
 
@@ -64,7 +72,7 @@
 Пријава испита у школској 2021./2022. години:
 * [јулски](https://docs.google.com/forms/d/e/1FAIpQLSflYmUx4hVVNw2FPgNn6X_RxmoETNnrD53yC49FxeoIvtxT0A/viewform?usp=sf_link) испитни рок
 * [августовски](https://docs.google.com/forms/d/e/1FAIpQLSd0Z-HKWTeYkqgVMa3gPQsETrPGUabhQgAl9DXJVPL_VDQxKA/viewform?usp=sf_link) испитни рок
-* септембарски испитни рок
+* [септембарски](https://docs.google.com/forms/d/e/1FAIpQLScWY12GJfkuWeQvuf7W3TVxg9Mbm0j0wwhewd23Hwdnw2zaMA/viewform?usp=sf_link) испитни рок
 * јануарски испитни рок
 * фебруарски испитни рок
 

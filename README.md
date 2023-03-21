@@ -12,13 +12,23 @@
 ## Настава
 
 * предавања (В. Миловановић и М. Гавриловић Божовић): понедељком од 8:15 до 11:00 у сали 216
-* вежбе I (И. Грујић): средом од 16:15 до 18:00 у сали 119
-* вежбе II (Л. Илић): четвртком од 9:15 до 11:00 у сали 216
+* вежбе I (И. Грујић): четвртком од 17:15 до 19:00 у сали 216
+* вежбе II (Л. Илић): средом од 12:15 до 14:00 у сали 212
 
 ## Литература
 
 Основни уџбеник:
 * [Anant Agarwal](https://en.wikipedia.org/wiki/Anant_Agarwal), Jeffrey Lang, [Foundations of Analog and Digital Electronic Circuits](https://neurophysics.ucsd.edu/courses/physics_120/Agarwal%20and%20Lang%20(2005)%20Foundations%20of%20Analog%20and%20Digital.pdf), [Elsevier](https://booksite.elsevier.com/9781558607354), 2005. и [решења задатака](https://textbooks.elsevier.com/manualsprotectedtextbooks/9781558607354/manual/agarwal_and_lang-solutions.pdf)
+
+### Корисне видео лекције
+
+На енглеском:
+* MIT 6.002 [пролеће 2007.](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007) преко MIT [OpenCourseWare](https://ocw.mit.edu)
+* троделни MIT [6.002x](https://www.edx.org/xseries/mitx-circuits-and-electronics) преко [edX](https://www.edx.org/)-а:
+  * [6.002.1x](https://www.edx.org/course/circuits-and-electronics-1-basic-circuit-analysi-2)
+  * [6.002.2x](https://www.edx.org/course/circuits-and-electronics-2-amplification-speed-a-2)
+  * [6.002.3x](https://www.edx.org/course/circuits-and-electronics-3-applications-2)
+* <https://elektrotehnika.github.io/mit-6002x> -- видео лекције и материјали доступни без регистрације
 
 <!--## Moodle приступ-->
 

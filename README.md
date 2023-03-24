@@ -7,7 +7,7 @@
 
 ## Обавештења
 
-Трочас предавања биће одржан и у суботу 25. марта 2023. године од 9:15 до 12:00.
+Трочас предавања најављен за суботу 25. марта 2023. године неће бити одржан услед спречености предметних наставника. Предавања у понедељак 27. марта 2023. године биће одржана према важећем распореду часова.
 
 ## Настава
 
@@ -23,7 +23,7 @@
 ### Корисне видео лекције
 
 На енглеском:
-* MIT 6.002 [пролеће 2007.](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007) преко MIT [OpenCourseWare](https://ocw.mit.edu)
+* MIT 6.002 [пролеће 2007.](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007) преко MIT [OpenCourseWare](https://ocw.mit.edu)-а
 * троделни MIT [6.002x](https://www.edx.org/xseries/mitx-circuits-and-electronics) преко [edX](https://www.edx.org/)-а:
   * [6.002.1x](https://www.edx.org/course/circuits-and-electronics-1-basic-circuit-analysi-2)
   * [6.002.2x](https://www.edx.org/course/circuits-and-electronics-2-amplification-speed-a-2)

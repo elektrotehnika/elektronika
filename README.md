@@ -7,7 +7,7 @@
 
 ## Обавештења
 
-Трочас предавања најављен за суботу 25. марта 2023. године неће бити одржан услед спречености предметних наставника. Предавања у понедељак 27. марта 2023. године биће одржана према важећем распореду часова.
+Прелиминарни [резултати првог колоквијума](https://docs.google.com/spreadsheets/d/1aPrlpQMEOZL5vnOXDlogiOVSYT2iF8hv3CDHO493QXI) одржаног 9. априла 2023. године.
 
 ## Настава
 
@@ -89,9 +89,11 @@
 
 ## Резултати колоквијума и испита
 
-[Резултати](https://docs.google.com/spreadsheets/d/1itNwLimSaMbI14gUMRV4P__rLVkMIvSJ-oJ9mmq7PbM) испита у школској 2021./2022. години.
 
-[Резултати](https://docs.google.com/spreadsheets/d/1itNwLimSaMbI14gUMRV4P__rLVkMIvSJ-oJ9mmq7PbM) колоквијума у школској 2021./2022. години.
+
+[Резултати](https://docs.google.com/spreadsheets/d/1aPrlpQMEOZL5vnOXDlogiOVSYT2iF8hv3CDHO493QXI) колоквијума и испита у школској 2022./2023. години.
+
+[Резултати](https://docs.google.com/spreadsheets/d/1itNwLimSaMbI14gUMRV4P__rLVkMIvSJ-oJ9mmq7PbM) колоквијума и испита у школској 2021./2022. години.
 
 ## Оцењивање
 

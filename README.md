@@ -9,7 +9,7 @@
 
 Часови предавања у понедељак 22. маја 2023. године неће бити одржани због спречености предметних наставника.
 
-Коначни [резултати првог и другог колоквијума](https://docs.google.com/spreadsheets/d/1aPrlpQMEOZL5vnOXDlogiOVSYT2iF8hv3CDHO493QXI) одржаног 9. априла 2023. године.
+Коначни [резултати колоквијума](https://docs.google.com/spreadsheets/d/1aPrlpQMEOZL5vnOXDlogiOVSYT2iF8hv3CDHO493QXI).
 
 ## Настава
 
@@ -41,16 +41,23 @@
 Интернет симулатори електронских кола
 * [CircuitLab][CircuitLab]
 * [Circuit Sandbox][Circuit-Sandbox]
+* [EveryCircuit][EveryCircuit]
 
 Слободни симулатори електронских кола
 * [SPICE][SPICE]
 * [ngspice][ngspice]
 
+Бесплатни симулатори електронских кола
+* [LTSpice][LTSpice]
+
 [CircuitLab]: https://www.circuitlab.com
 [Circuit-Sandbox]: https://spinningnumbers.org/circuit-sandbox
+[EveryCircuit]: https://everycircuit.com
 
 [SPICE]: http://bwrcs.eecs.berkeley.edu/Classes/IcBook/SPICE
 [ngspice]: https://ngspice.sourceforge.io
+
+[LTSpice]: https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html
 
 ## Виртуелне лабораторијске вежбе
 

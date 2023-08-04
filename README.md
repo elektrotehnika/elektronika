@@ -7,7 +7,7 @@
 
 ## Обавештења
 
-Часови предавања у понедељак 22. маја 2023. године неће бити одржани због спречености предметних наставника.
+Часови предавања у понедељак 22. маја 2023. године нису одржани услед спречености предметних наставника.
 
 Коначни [резултати колоквијума](https://docs.google.com/spreadsheets/d/1aPrlpQMEOZL5vnOXDlogiOVSYT2iF8hv3CDHO493QXI).
 
@@ -20,7 +20,7 @@
 ## Литература
 
 Основни уџбеник:
-* [Anant Agarwal](https://en.wikipedia.org/wiki/Anant_Agarwal), Jeffrey Lang, [Foundations of Analog and Digital Electronic Circuits](https://neurophysics.ucsd.edu/courses/physics_120/Agarwal%20and%20Lang%20(2005)%20Foundations%20of%20Analog%20and%20Digital.pdf), [Elsevier](https://booksite.elsevier.com/9781558607354), 2005. и [решења задатака](https://textbooks.elsevier.com/manualsprotectedtextbooks/9781558607354/manual/agarwal_and_lang-solutions.pdf)
+* [Anant Agarwal](https://en.wikipedia.org/wiki/Anant_Agarwal), Jeffrey Lang, [Foundations of Analog and Digital Electronic Circuits](https://neurophysics.ucsd.edu/courses/physics_120/Agarwal%20and%20Lang%20(2005)%20Foundations%20of%20Analog%20and%20Digital.pdf), [Elsevier](https://booksite.elsevier.com/9781558607354), 2005. и [решења задатака](https://studylib.net/doc/25245965/anant-agarwal--solutions-to-exercises)
 
 ### Корисне видео лекције
 
@@ -91,8 +91,8 @@
 
 Пријава испита у школској 2022./2023. години:
 * [јулски испитни рок](https://docs.google.com/forms/d/e/1FAIpQLScNDXaXrtjRGDdqEdcT45SBooaXZKV_hVlLnvq1hX4NTb1fKw/viewform)
-* августовски испитни рок
-* септембарски испитни рок
+* [августовски испитни рок](https://docs.google.com/forms/d/e/1FAIpQLSeMheCqaOQNfWCg4xM1Svn6pa0izfenxBBjOu387qqyFgdcHw/viewform)
+* [септембарски испитни рок](https://docs.google.com/forms/d/e/1FAIpQLSd2AajwolosP2GjYbNBUhRp_AY0oYd7In6n6HOuBlTO74StJg/viewform)
 * јануарски испитни рок
 * фебруарски испитни рок
 

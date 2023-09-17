@@ -93,6 +93,7 @@
 * [јулски испитни рок](https://docs.google.com/forms/d/e/1FAIpQLScNDXaXrtjRGDdqEdcT45SBooaXZKV_hVlLnvq1hX4NTb1fKw/viewform)
 * [августовски испитни рок](https://docs.google.com/forms/d/e/1FAIpQLSeMheCqaOQNfWCg4xM1Svn6pa0izfenxBBjOu387qqyFgdcHw/viewform)
 * [септембарски испитни рок](https://docs.google.com/forms/d/e/1FAIpQLSd2AajwolosP2GjYbNBUhRp_AY0oYd7In6n6HOuBlTO74StJg/viewform)
+* [октобарски испитни рок](https://docs.google.com/forms/d/e/1FAIpQLSdk535weOfV5Tpfbtl_UOCnAwwsIbDwFD5IkjjIWTU-MaghEQ/viewform)
 * јануарски испитни рок
 * фебруарски испитни рок
 

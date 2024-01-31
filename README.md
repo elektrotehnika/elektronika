@@ -95,7 +95,7 @@
 * [септембарски испитни рок](https://docs.google.com/forms/d/e/1FAIpQLSd2AajwolosP2GjYbNBUhRp_AY0oYd7In6n6HOuBlTO74StJg/viewform)
 * [октобарски испитни рок](https://docs.google.com/forms/d/e/1FAIpQLSdk535weOfV5Tpfbtl_UOCnAwwsIbDwFD5IkjjIWTU-MaghEQ/viewform)
 * јануарски испитни рок
-* фебруарски испитни рок
+* [фебруарски испитни рок](https://docs.google.com/forms/d/e/1FAIpQLSdVM43yssST75Cs0QPX0yKqr2GiyJZtSMf7hpsjpPzAwu9peA/viewform)
 
 ## Резултати колоквијума и испита
 

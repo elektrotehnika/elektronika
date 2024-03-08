@@ -3,13 +3,11 @@
 Пролећни семестар школске 2023./2024. године
 * наставници: Владимир М. Миловановић и Маријана Гавриловић Божовић
 * сарадник: Исидора Грујић
-* демонстратор: Лазар Илић
+* демонстратори: Лазар Илић и Филип Милић
 
 ## Обавештења
 
-Часови предавања у понедељак 22. маја 2023. године нису одржани услед спречености предметних наставника.
-
-Коначни [резултати колоквијума](https://docs.google.com/spreadsheets/d/1aPrlpQMEOZL5vnOXDlogiOVSYT2iF8hv3CDHO493QXI).
+Први колоквијум из Основа електронике биће одржан у суботу 13. априла 2024. године од 8:00 до 12:00 часова
 
 ## Настава
 
@@ -25,8 +23,8 @@
 ### Корисне видео лекције
 
 На енглеском:
-* MIT 6.002 [пролеће 2007.](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007) преко MIT [OpenCourseWare](https://ocw.mit.edu)-а
-* троделни MIT [6.002x](https://www.edx.org/xseries/mitx-circuits-and-electronics) преко [edX](https://www.edx.org/)-а:
+* MIT 6.002 Circuits and Electronics - пролеће 2007.: MIT [:tv: OpenCourseWare](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007) и [:tv: YouTube](https://www.youtube.com/playlist?list=PL9F74AFA03AA06A11)
+* троделни MIT [6.002x](https://www.edx.org/xseries/mitx-circuits-and-electronics) преко [edX](https://www.edx.org)-а:
   * [6.002.1x](https://www.edx.org/course/circuits-and-electronics-1-basic-circuit-analysi-2)
   * [6.002.2x](https://www.edx.org/course/circuits-and-electronics-2-amplification-speed-a-2)
   * [6.002.3x](https://www.edx.org/course/circuits-and-electronics-3-applications-2)
@@ -76,8 +74,8 @@
 ### Колоквијуми
 
 Колоквијуми се одржавају у току летњег семестра и заказани су за:
-* I колоквијум: недеља 9. април 2023. године од 12:00 до 16:00 часова
-* II колоквијум: петак, 5. мај 2023. године од 16:30 до 20:30 часова
+* I колоквијум: субота 13. април 2024. године од 8:00 до 12:00 часова
+* II колоквијум: петак, неки мај 2024. године од 16:30 до 20:30 часова
 
 На колоквијумима је обавезно понети индекс, као и личну карту или пасош и поштовати [распореда седења](https://docs.google.com/spreadsheets/d/1iIDoG6VU6Yd2byr2_1xUH_fQ_dqpui5OLtbVQdB7w38). Да би положио колоквијум студент мора остварити најмање 50% поена, односно 15 поена на сваком. По један колоквијум је могуће надокнадити у сваком од испитних рокова уместо завршног испита.
 
@@ -90,14 +88,16 @@
 Услов за полагање испита је пријава испита преко студентске службе, као и одабир надокнаде одговарајућег колоквијума путем формулара најкасније 72 часа пре почетка испита.
 
 Пријава испита у школској 2022./2023. години:
-* [јулски испитни рок](https://docs.google.com/forms/d/e/1FAIpQLScNDXaXrtjRGDdqEdcT45SBooaXZKV_hVlLnvq1hX4NTb1fKw/viewform)
-* [августовски испитни рок](https://docs.google.com/forms/d/e/1FAIpQLSeMheCqaOQNfWCg4xM1Svn6pa0izfenxBBjOu387qqyFgdcHw/viewform)
-* [септембарски испитни рок](https://docs.google.com/forms/d/e/1FAIpQLSd2AajwolosP2GjYbNBUhRp_AY0oYd7In6n6HOuBlTO74StJg/viewform)
-* [октобарски испитни рок](https://docs.google.com/forms/d/e/1FAIpQLSdk535weOfV5Tpfbtl_UOCnAwwsIbDwFD5IkjjIWTU-MaghEQ/viewform)
+* [јулски испитни рок]()
+* августовски испитни рок
+* септембарски испитни рок
+* октобарски испитни рок
 * јануарски испитни рок
-* [фебруарски испитни рок](https://docs.google.com/forms/d/e/1FAIpQLSdVM43yssST75Cs0QPX0yKqr2GiyJZtSMf7hpsjpPzAwu9peA/viewform)
+* фебруарски испитни рок
 
 ## Резултати колоквијума и испита
+
+Резултати колоквијума и испита у школској 2023./2024. години.
 
 [Резултати](https://docs.google.com/spreadsheets/d/1aPrlpQMEOZL5vnOXDlogiOVSYT2iF8hv3CDHO493QXI) колоквијума и испита у школској 2022./2023. години.
 

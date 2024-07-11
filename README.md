@@ -87,10 +87,10 @@
 
 Услов за полагање испита је пријава испита преко студентске службе, као и одабир надокнаде одговарајућег колоквијума путем формулара најкасније 72 часа пре почетка испита.
 
-Пријава испита у школској 2023./2024. години:
+Пријава испита у школској 2023/2024. години:
 * [јулски](https://docs.google.com/forms/d/e/1FAIpQLSedQWRVobrwiUGZarBmmd3Q76E0kBuazTxgUqAd6ozOZhuupg/viewform) испитни рок
-* августовски испитни рок
-* септембарски испитни рок
+* [августовски](https://docs.google.com/forms/d/e/1FAIpQLSdUMmTyTvffMF8cDx9GtvdNCc2e-mRPUgmIDAJwi5XBdueTPQ/viewform) испитни рок
+* [септембарски](https://docs.google.com/forms/d/e/1FAIpQLSdTZgS5bt5Je57pbABzQDt0VL5I7Hhmiq93OgrSGZ2HAyQbzg/viewform) испитни рок
 * октобарски испитни рок
 * јануарски испитни рок
 * фебруарски испитни рок

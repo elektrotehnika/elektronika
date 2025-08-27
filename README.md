@@ -116,7 +116,7 @@
 
 ## Резултати колоквијума и испита
 
-Резултати предиспитних обавеза и испита у школској 2024/2025. години.
+[Резултати](https://docs.google.com/spreadsheets/d/10yvcYEAML9o61oZPbE7uFesEzbV_-PcxD60-BiFkd-M) предиспитних обавеза и испита у школској 2024/2025. години.
 
 [Резултати](https://docs.google.com/spreadsheets/d/1_9OpwFrf_P7iSZQBNnsroadpRf3pg2pqaIGEC2hEksQ) предиспитних обавеза и испита у школској 2023/2024. години.
 

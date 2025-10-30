@@ -111,8 +111,9 @@
 * [јануарски](https://docs.google.com/forms/d/e/1FAIpQLScS9XqSlSFbu3jZlmQbfFwKWzKedIS8vsJ_brO9PYUdZkNuNg/viewform) испитни рок (четвртак 28. август 2025. године)
 * [фебруарски](https://docs.google.com/forms/d/e/1FAIpQLScLmvMc0VL3q6n6CdL6fN-JgRBgZVpo6UFXAQPfDvbt_m4XjQ/viewform) испитни рок (среда 10. септембар 2025. године)
 * јунски испитни рок (четвртак 25. септембар 2025. године) -- само III колоквијум
-* [августовски](https://docs.google.com/forms/d/e/1FAIpQLSe_HmnhLZpc5LXAMEvAg35aeLSeHd404U8CQ9BHBktkzK8x1w/viewform) испитни рок (четвртак 9. октобар 2025. године)
-* [септембарски](https://docs.google.com/forms/d/e/1FAIpQLSd6wlEUny0Ih9SPWYVne9_9N9DeLiv_3DBaUXNpPFf_LvfUxA/viewform) испитни рок (четвртак 23. октобар 2025. године)
+* [августовски](https://docs.google.com/forms/d/e/1FAIpQLSe_HmnhLZpc5LXAMEvAg35aeLSeHd404U8CQ9BHBktkzK8x1w/viewform) испитни рок (среда 8. октобар 2025. године)
+* [септембарски](https://docs.google.com/forms/d/e/1FAIpQLSd6wlEUny0Ih9SPWYVne9_9N9DeLiv_3DBaUXNpPFf_LvfUxA/viewform) испитни рок (среда 22. октобар 2025. године)
+* [октобарски](https://docs.google.com/forms/d/e/1FAIpQLSeB83LKf1sqIToQPXDw_-iCh-W5rSEa_mmwFFFwzDIYfoGAiA/viewform) испитни рок
 
 ## Резултати колоквијума и испита
 

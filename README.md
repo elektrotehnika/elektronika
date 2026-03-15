@@ -34,8 +34,9 @@
 
 ## Литература
 
-Основни уџбеник:
+Основни уџбеници:
 * [Anant Agarwal](https://en.wikipedia.org/wiki/Anant_Agarwal), Jeffrey Lang, [Foundations of Analog and Digital Electronic Circuits](https://neurophysics.ucsd.edu/courses/physics_120/Agarwal%20and%20Lang%20(2005)%20Foundations%20of%20Analog%20and%20Digital.pdf), [Elsevier](https://booksite.elsevier.com/9781558607354), 2005. и [решења задатака](https://studylib.net/doc/25245965/anant-agarwal--solutions-to-exercises)
+* [Behzad Razavi](https://en.wikipedia.org/wiki/Behzad_Razavi), [Fundamentals of Microelectronics](https://books-library.website/files/books-library.net-02152340Lj6P7.pdf), [Wiley](https://www.wiley.com/en-us/Fundamentals+of+Microelectronics%2C+3rd+Edition-p-9781119695141), 2021, [решења задатака](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=9036&itemId=1118156323)
 
 ### Корисне видео лекције
 
@@ -46,6 +47,7 @@
   * [6.002.2x](https://www.edx.org/course/circuits-and-electronics-2-amplification-speed-a-2)
   * [6.002.3x](https://www.edx.org/course/circuits-and-electronics-3-applications-2)
 * <https://elektrotehnika.github.io/mit-6002x> -- видео лекције и материјали доступни без регистрације
+* UCLA Electronic Circuits I [:tv: InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/electronics/electronic-circuits-i-behzad-razavi.html) и [:tv: YouTube](https://www.youtube.com/@b_razavi)
 
 ## Приступ Moodle платформи
 
@@ -117,6 +119,8 @@
 * испитни рок [октобар 2](https://docs.google.com/forms/d/e/1FAIpQLSfBbpXyEId-eqBalqNoSSQMQnizzeAkeSqvEZ2CYLoIHeaDEg/viewform)
 
 ## Резултати колоквијума и испита
+
+Резултати предиспитних обавеза и испита у школској 2025/2026. години.
 
 [Резултати](https://docs.google.com/spreadsheets/d/10yvcYEAML9o61oZPbE7uFesEzbV_-PcxD60-BiFkd-M) предиспитних обавеза и испита у школској 2024/2025. години.
 

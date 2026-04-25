@@ -13,7 +13,7 @@
 
 Сви студенти који желе да раде лабораторијске вежбе и остваре бодове на њима могу се пријавити за израду путем [формулара](https://docs.google.com/forms/d/e/1FAIpQLSfffXI6IFN8nIuZA4y9_e6ca-bZN03YrkemT7qM3rk2NbtHcw/viewform) најкасније до краја месеца, тачније до 31. марта 2026. године
 
-Први колоквијум из основа електронике биће одржан у четвртак 23. априла 2026. године после подне уз обавезну пријаву путем [формулара за I колоквијум](https://docs.google.com/forms/d/e/1FAIpQLSctA3VPuxVgJ8D3aIoq28soS7sCYnE8UE2rVv83RAc8m25BVA/viewform) најкасније пет дана пре заказаног термина.
+Први колоквијум из основа електронике oдржан je u четвртак 23. априла 2026. године од 16 до 20 часова.
 
 У јунском испитном року, највероватније у среду или четвртак 17. или 18. јуна 2026. године, биће одржан III колоквијум за све студенте уз обавезну пријаву испита у студентској служби. У свим наредним испитним роковима уз обавезну пријаву испита у студентској служби могуће је надокнадити по један од три колоквијума уз претходни одабир колоквијума у одељку [испити](#испити) путем одговарајућег формулара најкасније 72 часа пре заказаног почетка испита
 
@@ -30,7 +30,7 @@
 
 Основни уџбеници:
 * [Anant Agarwal](https://en.wikipedia.org/wiki/Anant_Agarwal), Jeffrey Lang, [Foundations of Analog and Digital Electronic Circuits](https://neurophysics.ucsd.edu/courses/physics_120/Agarwal%20and%20Lang%20(2005)%20Foundations%20of%20Analog%20and%20Digital.pdf), [Elsevier](https://booksite.elsevier.com/9781558607354), 2005. и [решења задатака](https://studylib.net/doc/25245965/anant-agarwal--solutions-to-exercises)
-* [Behzad Razavi](https://en.wikipedia.org/wiki/Behzad_Razavi), [Fundamentals of Microelectronics](https://books-library.website/files/books-library.net-02152340Lj6P7.pdf), [Wiley](https://www.wiley.com/en-us/Fundamentals+of+Microelectronics%2C+3rd+Edition-p-9781119695141), 2021. и [решења задатака](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=9036&itemId=1118156323)
+* [Behzad Razavi](https://en.wikipedia.org/wiki/Behzad_Razavi), [Fundamentals of Microelectronics](https://books-library.website/files/books-library.net-02152340Lj6P7.pdf), [треће издање](https://zh.1lib.sk/dl/K41QPmoG4V), [Wiley](https://www.wiley.com/en-us/Fundamentals+of+Microelectronics%2C+3rd+Edition-p-9781119695141), 2021. и [решења задатака](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=9036&itemId=1118156323)
 
 ### Корисне видео лекције
 
